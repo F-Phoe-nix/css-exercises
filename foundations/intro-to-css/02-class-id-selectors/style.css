@@ -1,1 +1,23 @@
 /* Add CSS Styling */
+
+.uno {
+    background-color: #FF9999;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+#dos {
+    color: #0000FF;
+    font-size: 36px;
+    font-weight: bold;
+}
+
+.uno.unique {
+    font-size: 24px;
+    font-weight: 500;
+}
+
+#tres {
+    background-color: #90EE90;
+    font-weight: bold;
+    font-size: 24px;
+}
